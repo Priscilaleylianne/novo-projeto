@@ -1,3 +1,4 @@
 # novo-projeto
 Criação e teste do projeto SOA
-Pasta login de pagina web, utiliznado a limguagem em php.
+Pasta login de pagina web
+em linguagem PHP
